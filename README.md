@@ -1,7 +1,7 @@
 # Spam-Mail-Detection
 
-### Model Evaluation:
+### Evaluation:
 ![EVALUATION](eval.png)
 
-### Predictive Model:
+### Prediction:
 ![Perform](pred.png)
